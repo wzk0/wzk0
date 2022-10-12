@@ -10,7 +10,7 @@
 
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wzk0&layout=compact&theme=tokyonight'>
 
-<br><br><br><br><br><br><br>
+<hr>
 
 * 👉 **头像 (本人照片🔮)**
 
