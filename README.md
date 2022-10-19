@@ -64,12 +64,6 @@
 
 ---
 
-💚 [wzk0/discuss - 博客评论储存!](https://github.com/wzk0/discuss)
-
-> 💬 语言: ***不告诉你！*** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: ***不告诉你！***
-
----
-
 🧡 [wzk0/endecode - Python实现的简单的加/解密方法,可用来在上课时传老师看不懂的小纸条!](https://github.com/wzk0/endecode)
 
 > 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
@@ -106,12 +100,6 @@
 
 ---
 
-💙 [wzk0/photo - 这是一个图床.](https://github.com/wzk0/photo)
-
-> 💬 语言: ***不告诉你！*** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: ***不告诉你！***
-
----
-
 🤍 [wzk0/Python-Netease-demo - 基于网易云API的终端网易云.](https://github.com/wzk0/Python-Netease-demo)
 
 > 💬 语言: **Python** —— ✨ Star数: **2** —— ⚓ Fork数: **2** —— 📚 许可证: **MIT License**
@@ -121,12 +109,6 @@
 🖤 [wzk0/quick-hexo - 一个方便中文Hexo用户使用的工具.](https://github.com/wzk0/quick-hexo)
 
 > 💬 语言: **Python** —— ✨ Star数: **6** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-💛 [wzk0/repo-of-app - 远端仓库](https://github.com/wzk0/repo-of-app)
-
-> 💬 语言: **Python** —— ✨ Star数: **1** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
@@ -157,30 +139,6 @@
 🧡 [wzk0/tg-wc - 一个基于itchat接口,通过Telegram Bot互通微信和Telegram的工具.](https://github.com/wzk0/tg-wc)
 
 > 💬 语言: **Python** —— ✨ Star数: **5** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-💜 [wzk0/ti-ku - *不告诉你！*](https://github.com/wzk0/ti-ku)
-
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-💚 [wzk0/ubuntu22-apt-src - Ubuntu 22.04 LTS Official APT Source for Chinese User.](https://github.com/wzk0/ubuntu22-apt-src)
-
-> 💬 语言: ***不告诉你！*** —— ✨ Star数: **1** —— ⚓ Fork数: **0** —— 📚 许可证: ***不告诉你！***
-
----
-
-💚 [wzk0/wyyapi - 网易云音乐 Node.js API service](https://github.com/wzk0/wyyapi)
-
-> 💬 语言: ***不告诉你！*** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-🧡 [wzk0/wzk0 - 我!](https://github.com/wzk0/wzk0)
-
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: ***不告诉你！***
 
 ---
 
