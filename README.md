@@ -46,6 +46,12 @@
 
 ---
 
+🤎 [wzk0/picup - 一个支持插件化的终端操作的图床程序. 可以大概视为 PicGo 的简陋终端版?](https://github.com/wzk0/picup)
+
+> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+
+---
+
 🤎 [wzk0/3rd_byrut_website - 一个只纯粹于下载PC游戏的网站, 数据来自 🇷🇺 的多个下载站](https://github.com/wzk0/3rd_byrut_website)
 
 > 💬 语言: **HTML** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
@@ -64,12 +70,6 @@
 
 ---
 
-🤍 [wzk0/appimage_panel - 一个扫描, 管理, 启动appimage文件的小工具](https://github.com/wzk0/appimage_panel)
-
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
 🧡 [wzk0/at_tg_bot - 一个与系统at绑定的tg机器人, 可用于定时任务或提醒](https://github.com/wzk0/at_tg_bot)
 
 > 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
@@ -79,12 +79,6 @@
 💜 [wzk0/auto_profile - 自动生成简洁美观的GitHub Profile!](https://github.com/wzk0/auto_profile)
 
 > 💬 语言: **Python** —— ✨ Star数: **2** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-🧡 [wzk0/aw24 - 一个自动转换Ubuntu录屏文件格式的小脚本.](https://github.com/wzk0/aw24)
-
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
@@ -121,18 +115,6 @@
 💚 [wzk0/epic-tg-bot - 一个获取Epic喜加一信息的简易tgbot](https://github.com/wzk0/epic-tg-bot)
 
 > 💬 语言: **Python** —— ✨ Star数: **1** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-🤎 [wzk0/picup - 一个支持插件化的终端操作的图床程序. 可以大概视为 PicGo 的简陋终端版?](https://github.com/wzk0/picup)
-
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-💙 [wzk0/python-8x8x-api - 一个 8x8x (没错就是那个) 的 python API !](https://github.com/wzk0/python-8x8x-api)
-
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
