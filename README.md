@@ -34,7 +34,7 @@
 
 * 💕 **推特 (记得关注💘) ——** *[点我！](https://twitter.com/thd_bd)*
 
-* 🎖 **仓库 (已公开的✨) ——** *48个* 
+* 🎖 **仓库 (已公开的✨) ——** *50个* 
 
 * 💎 **片段 (已发布的🪄) ——** *3个* 
 
@@ -46,15 +46,15 @@
 
 ---
 
-💙 [wzk0/3rd_byrut_website - 一个只纯粹于下载PC游戏的网站, 数据来自 🇷🇺 的多个下载站](https://github.com/wzk0/3rd_byrut_website)
+🤎 [wzk0/3rd_byrut_website - 一个只纯粹于下载PC游戏的网站, 数据来自 🇷🇺 的多个下载站](https://github.com/wzk0/3rd_byrut_website)
 
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+> 💬 语言: **HTML** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
-💜 [wzk0/8x-web - 一个 8x8x (没错就是那个) 的第三方网站 !](https://github.com/wzk0/8x-web)
+💚 [wzk0/8x-web - 一个 8x8x (没错就是那个) 的第三方网站 !](https://github.com/wzk0/8x-web)
 
-> 💬 语言: **Python** —— ✨ Star数: **2** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+> 💬 语言: **HTML** —— ✨ Star数: **2** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
@@ -64,13 +64,13 @@
 
 ---
 
-💙 [wzk0/appimage_panel - 一个扫描, 管理, 启动appimage文件的小工具](https://github.com/wzk0/appimage_panel)
+🤍 [wzk0/appimage_panel - 一个扫描, 管理, 启动appimage文件的小工具](https://github.com/wzk0/appimage_panel)
 
 > 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
-🖤 [wzk0/at_tg_bot - 一个与系统at绑定的tg机器人, 可用于定时任务或提醒](https://github.com/wzk0/at_tg_bot)
+🧡 [wzk0/at_tg_bot - 一个与系统at绑定的tg机器人, 可用于定时任务或提醒](https://github.com/wzk0/at_tg_bot)
 
 > 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
@@ -82,27 +82,63 @@
 
 ---
 
-🧡 [wzk0/clash_tui - 一个基于clash内核的简陋的终端界面. 适用于Termux和所有Linux终端.](https://github.com/wzk0/clash_tui)
+🧡 [wzk0/aw24 - 一个自动转换Ubuntu录屏文件格式的小脚本.](https://github.com/wzk0/aw24)
+
+> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+
+---
+
+🤎 [wzk0/awesome-linux-software-by-thdbd - 这是便当的Linux好软推荐栏目, 将在此仓库中储存每一期Linux好软的信息.](https://github.com/wzk0/awesome-linux-software-by-thdbd)
+
+> 💬 语言: ***不告诉你！*** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+
+---
+
+💛 [wzk0/clash_tui - 一个基于clash内核的简陋的终端界面. 适用于Termux和所有Linux终端.](https://github.com/wzk0/clash_tui)
 
 > 💬 语言: **Python** —— ✨ Star数: **10** —— ⚓ Fork数: **1** —— 📚 许可证: ***不告诉你！***
 
 ---
 
-🖤 [wzk0/epic-tg-bot - 一个获取Epic喜加一信息的简易tgbot](https://github.com/wzk0/epic-tg-bot)
+💚 [wzk0/dingtalk_auto_click - 一个自动进入钉钉视频会议并关闭摄像头和麦克风的小工具!](https://github.com/wzk0/dingtalk_auto_click)
+
+> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+
+---
+
+💚 [wzk0/endecode - Python实现的简单的加/解密方法,可用来在上课时传老师看不懂的小纸条!](https://github.com/wzk0/endecode)
+
+> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+
+---
+
+💛 [wzk0/endecode-with-key - Python实现的简单的加/解密方法 | 第二弹 | 携带密钥](https://github.com/wzk0/endecode-with-key)
+
+> 💬 语言: **Python** —— ✨ Star数: **4** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+
+---
+
+💚 [wzk0/epic-tg-bot - 一个获取Epic喜加一信息的简易tgbot](https://github.com/wzk0/epic-tg-bot)
 
 > 💬 语言: **Python** —— ✨ Star数: **1** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
-🖤 [wzk0/pgm-Termux - 安卓手机在Termux运行PagerMaid-Modify的Python脚本.](https://github.com/wzk0/pgm-Termux)
+🤎 [wzk0/picup - 一个支持插件化的终端操作的图床程序. 可以大概视为 PicGo 的简陋终端版?](https://github.com/wzk0/picup)
 
-> 💬 语言: **Python** —— ✨ Star数: **3** —— ⚓ Fork数: **1** —— 📚 许可证: ***不告诉你！***
+> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
-💛 [wzk0/quick-hexo - 一个方便中文Hexo用户使用的工具.](https://github.com/wzk0/quick-hexo)
+💙 [wzk0/python-8x8x-api - 一个 8x8x (没错就是那个) 的 python API !](https://github.com/wzk0/python-8x8x-api)
 
-> 💬 语言: **Python** —— ✨ Star数: **7** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+
+---
+
+🧡 [wzk0/python-wenku8-api - 一个 wenku8 (轻小说文库) 的 python API !](https://github.com/wzk0/python-wenku8-api)
+
+> 💬 语言: **Python** —— ✨ Star数: **1** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
 
 ---
 
