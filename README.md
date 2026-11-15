@@ -1,127 +1,146 @@
-<h3 align="center">🌈一个小白！✨喜欢写好玩的东西🎉</h3>
+# Hi, I'm wzk0 👋
 
-<img align='center' src='https://i0.hdslb.com/bfs/article/02db465212d3c374a43c60fa2625cc1caeaab796.png'>
+<div align="center">
 
-<h3 align="center">💯 关于我！👇</h3>
+### Developer · Open Source Enthusiast · Linux Explorer
 
----
+热爱编程，喜欢探索技术背后的原理，也喜欢把想法变成真正可用的软件。
 
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=wzk0&theme=tokyonight&show_icons=true'>
+专注于 Flutter 应用开发、Android 系统探索与 Linux 自动化工具，享受从应用界面到系统底层的开发过程。
 
-<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=wzk0&layout=compact&theme=tokyonight'>
+**Stay curious. Keep building. Keep exploring.**
 
-<hr>
-
-* 👉 **头像 (本人照片🔮)**
-
-<img align='right' src='https://avatars.githubusercontent.com/u/89891126?v=4'>
-
-* 😘 **昵称 (实名认证👑) ——** *听话的便当！*
-
-* 👁️‍🗨️ **身份 (已发布的🆔) ——** *普通用户！* 
-
-* 🏠 **公司 (另一个家💢) ——** *圣条学园文学部！*
-
-* 📋 **博客 (网络小窝🛸) ——** *[点我！](https://wzk0.github.io/)*
-
-* 📮 **邮箱 (有事常联📧) ——** *不告诉你！*
-
-* 🏩 **在哪 (真实地址🏛️) ——** *便当国！*
-
-* 🔥 **粉丝 (不可以吃🐻) ——** *24个* 
-
-* 🦄 **关注 (被粉丝的🚀) ——** *14个*
-
-* 💕 **推特 (记得关注💘) ——** *[点我！](https://twitter.com/thd_bd)*
-
-* 🎖 **仓库 (已公开的✨) ——** *50个* 
-
-* 💎 **片段 (已发布的🪄) ——** *3个* 
-
-* 🏆 **日期 (初来乍到✅) ——** *2021-09-01T03:21:12Z*
-
-<img align='center' src='https://i0.hdslb.com/bfs/article/02db465212d3c374a43c60fa2625cc1caeaab796.png'>
-
-<h3 align="center">💯 关于我的仓库！👇</h3>
+</div>
 
 ---
 
-🤎 [wzk0/picup - 一个支持插件化的终端操作的图床程序. 可以大概视为 PicGo 的简陋终端版?](https://github.com/wzk0/picup)
+## 👨‍💻 About Me
 
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+- 📱 Interested in Android development and modern UI design.
+- 🎨 Building applications with Flutter, Jetpack Compose and Material Design 3.
+- 🐧 Linux enthusiast, exploring desktop environments and system internals.
+- ⚙️ Working on Android kernel and Linux RootFS automation.
+- 🤖 Interested in AI Agents, MCP and automation workflows.
+- 🌱 Always learning something new and turning ideas into projects.
 
----
+## 🛠️ Tech Stack
 
-🤎 [wzk0/3rd_byrut_website - 一个只纯粹于下载PC游戏的网站, 数据来自 🇷🇺 的多个下载站](https://github.com/wzk0/3rd_byrut_website)
+**Programming Languages**
 
-> 💬 语言: **HTML** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
+**Frameworks & Platforms**
 
-💚 [wzk0/8x-web - 一个 8x8x (没错就是那个) 的第三方网站 !](https://github.com/wzk0/8x-web)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-> 💬 语言: **HTML** —— ✨ Star数: **2** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+**Tools & Technologies**
 
----
-
-💙 [wzk0/adb-tui - 一个彩色的adb的终端界面, 用于操作adb批量卸载软件或查看信息.](https://github.com/wzk0/adb-tui)
-
-> 💬 语言: **Python** —— ✨ Star数: **2** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-🧡 [wzk0/at_tg_bot - 一个与系统at绑定的tg机器人, 可用于定时任务或提醒](https://github.com/wzk0/at_tg_bot)
-
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-💜 [wzk0/auto_profile - 自动生成简洁美观的GitHub Profile!](https://github.com/wzk0/auto_profile)
-
-> 💬 语言: **Python** —— ✨ Star数: **2** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-🤎 [wzk0/awesome-linux-software-by-thdbd - 这是便当的Linux好软推荐栏目, 将在此仓库中储存每一期Linux好软的信息.](https://github.com/wzk0/awesome-linux-software-by-thdbd)
-
-> 💬 语言: ***不告诉你！*** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![KernelSU](https://img.shields.io/badge/KernelSU-333333?style=flat-square&logo=android&logoColor=white)
 
 ---
 
-💛 [wzk0/clash_tui - 一个基于clash内核的简陋的终端界面. 适用于Termux和所有Linux终端.](https://github.com/wzk0/clash_tui)
+## 🚀 Featured Projects
 
-> 💬 语言: **Python** —— ✨ Star数: **10** —— ⚓ Fork数: **1** —— 📚 许可证: ***不告诉你！***
+### 📱 [new_zhic_tool](https://github.com/wzk0/new_zhic_tool) — 掌环
+
+<sub>Flutter · Dart · Riverpod · Material 3 Expressive</sub>
+
+面向天津理工大学中环信息学院的校园综合助手，将教务查询、学习资料与常用校园服务整合到一个应用中。
+
+- 📚 课表、成绩、考试安排、培养方案查询
+- 🏫 空教室查询与校园服务入口
+- 📝 期末题库共享与社区共建
+- 🎨 Material 3 Expressive、动态取色与自定义主题
+- 🔄 本地缓存、账号管理与自动更新
+- ⚙️ GitHub Actions 自动构建和发布 APK
+
+### 🔢 [Counter](https://github.com/wzk0/Counter)
+
+<sub>Kotlin · Jetpack Compose · Material 3 Expressive</sub>
+
+一个原生 Android 多计数器应用，采用 Jetpack Compose 构建，支持 Android Monet 动态取色。
+
+- 多个独立计数器同时运行
+- 宽松 / 紧凑两种列表布局
+- 左滑删除、右滑置顶
+- 长按连续增加或减少
+- 计数历史与本地持久化
+- 深色模式与动态主题
+
+### 🖥️ [Droidspaces-rootfs-Desktop-builder](https://github.com/wzk0/Droidspaces-rootfs-Desktop-builder)
+
+<sub>Linux · Fedora · GNOME · Docker · Shell · GitHub Actions</sub>
+
+为 Android 上的 Droidspaces 构建 Fedora 45 + GNOME 51 桌面 Linux 环境，让 Android 设备也能运行完整的 Linux 桌面。
+
+- Fedora 45 ARM64 RootFS 自动构建
+- GNOME 51 + Anland Wayland 桌面环境
+- Snapdragon GPU 硬件加速与视频解码支持
+- Chrome、Fcitx5 中文输入法及开发工具
+- Docker、USB 管理与容器内 TUI 工具
+- GitHub Actions 自动构建和 Release 发布
+
+### ⚙️ [marble-kernel-builder](https://github.com/wzk0/marble-kernel-builder)
+
+<sub>Android Kernel · Shell · GitHub Actions · KernelSU · SUSFS</sub>
+
+面向 POCO F5 / Redmi Note 12 Turbo（marble / marblein）的 Android 内核自动化构建系统。
+
+- 支持 5 种上游内核源码
+- 支持 KernelSU、KernelSU-Next、SukiSU Ultra、ReSukiSU
+- 可选 SUSFS 与 Droidspaces 内核补丁
+- 多工具链管理与版本固定
+- LTO、ccache、ThinLTO 缓存优化
+- 自动化构建矩阵、测试、产物审计与 Release 管理
+- 通过 GitHub Actions 实现多配置并行构建
 
 ---
 
-💚 [wzk0/dingtalk_auto_click - 一个自动进入钉钉视频会议并关闭摄像头和麦克风的小工具!](https://github.com/wzk0/dingtalk_auto_click)
+## 📊 GitHub Statistics
 
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+<div align="center">
+## 📊 GitHub Statistics
 
----
+<div align="center">
+  <img src="./profile/stats.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
+</div>
 
-💚 [wzk0/endecode - Python实现的简单的加/解密方法,可用来在上课时传老师看不懂的小纸条!](https://github.com/wzk0/endecode)
+![GitHub Streak](https://streak-stats.demolab.com?user=wzk0&theme=tokyonight&hide_border=true)
 
-> 💬 语言: **Python** —— ✨ Star数: **0** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+</div>
 
----
+## 📈 Contribution Activity
 
-💛 [wzk0/endecode-with-key - Python实现的简单的加/解密方法 | 第二弹 | 携带密钥](https://github.com/wzk0/endecode-with-key)
+<div align="center">
 
-> 💬 语言: **Python** —— ✨ Star数: **4** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+[![GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/wzk0)](https://github.com/wzk0)
 
----
-
-💚 [wzk0/epic-tg-bot - 一个获取Epic喜加一信息的简易tgbot](https://github.com/wzk0/epic-tg-bot)
-
-> 💬 语言: **Python** —— ✨ Star数: **1** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
-
----
-
-🧡 [wzk0/python-wenku8-api - 一个 wenku8 (轻小说文库) 的 python API !](https://github.com/wzk0/python-wenku8-api)
-
-> 💬 语言: **Python** —— ✨ Star数: **1** —— ⚓ Fork数: **0** —— 📚 许可证: **MIT License**
+</div>
 
 ---
 
-<img align='center' src='https://i0.hdslb.com/bfs/article/02db465212d3c374a43c60fa2625cc1caeaab796.png'>
+## 🌐 Find Me
+
+- GitHub: [@wzk0](https://github.com/wzk0)
+- Gitee: [@thdbd](https://gitee.com/thdbd)
+
+---
+
+<div align="center">
+
+**Thanks for stopping by! ⭐**
+
+*Build useful things. Explore the unknown.*
+
+</div>
