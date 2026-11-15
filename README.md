@@ -109,10 +109,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-## 📊 GitHub Statistics
 
 <div align="center">
   <img src="./profile/stats.svg" width="49%" />
+</div>
+
+<div align="center">
   <img src="./profile/top-langs.svg" width="49%" />
 </div>
 
