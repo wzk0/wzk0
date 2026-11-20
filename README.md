@@ -64,6 +64,41 @@
 - 🔄 本地缓存、账号管理与自动更新
 - ⚙️ GitHub Actions 自动构建和发布 APK
 
+### 🐸 [frog-reader](https://github.com/wzk0/frog-reader) — 青蛙阅读 · 蛙阅
+
+<sub>Kotlin · Jetpack Compose · Material 3 Expressive · OPDS</sub>
+
+FrogReader 的简体中文分支，一款支持离线书库和 OPDS 在线目录的开源 Android 电子书阅读器。
+
+- 📚 支持 EPUB、FB2、MOBI、TXT 和 Markdown 等格式
+- 🗂️ 按文件夹批量导入图书并整理书架
+- 🔍 浏览 OPDS 目录、在线搜书并下载到本地
+- 🎨 按书调整排版，支持分页、连续滚动和中文字体预设
+- 🔖 保存高亮、笔记、书签和阅读进度
+
+### 🖼️ [android_picup](https://github.com/wzk0/android_picup) — PicUp
+
+<sub>Kotlin · Jetpack Compose · Material 3 Expressive · Git</sub>
+
+用自己的 Git 仓库当图床的原生 Android 应用，上传后可直接复制图片链接。
+
+- 🔌 插件化支持 GitHub、GitLab、Gitee、Gitea / Forgejo 和 Codeberg
+- 📤 支持相册多选、文件和剪贴板上传
+- 🖼️ 可选原格式、WebP、JPEG 或 PNG，支持压缩和移除 EXIF
+- 🔗 支持直链、Markdown、HTML 和自定义复制格式
+- 🗂️ 自定义上传路径和 CDN 前缀，支持在本地历史中搜索与预览
+
+### 📖 [zhang_xiao_du](https://github.com/wzk0/zhang_xiao_du) — 掌小读
+
+<sub>C · ESP32-C3 · ESP-IDF · LVGL</sub>
+
+运行在 FoloToy AI Passport 上的 TXT 电子书阅读系统。
+
+- 📶 连接设备热点后，可直接在浏览器上传 TXT 电子书
+- 🔖 支持分页阅读、书签、目录跳转和阅读进度保存
+- 💾 使用分块压缩的 `.zdx` 格式节省设备存储空间
+- 🌙 支持深色模式和存储空间查看
+
 ### 🔢 [Counter](https://github.com/wzk0/Counter)
 
 <sub>Kotlin · Jetpack Compose · Material 3 Expressive</sub>
